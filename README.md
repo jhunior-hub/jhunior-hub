@@ -1,5 +1,6 @@
 # Hola 💬
-![logo1](https://github.com/Dreyuix/Dreyuix/assets/65123134/b610ada7-e668-44b9-80db-f3d030bb970b)
+![happy-birthday-apple-47-delightful-wallpapers-for-the-47th-v0-6w4zf6j978ra1-1024x576](https://github.com/user-attachments/assets/653d4deb-c751-46c1-a766-2c91761e9318)
+
 
 Soy un ingeniero de software apasionado por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades.
 
